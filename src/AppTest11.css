@@ -1,0 +1,360 @@
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-family: BinancePlex,Arial,sans-serif!important;
+}
+
+body {
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    font-size: 14px;
+}
+
+body {
+    margin: 0px;
+}
+
+body {
+    font-family: BinancePlex,Arial,sans-serif!important;
+}
+
+
+
+#__APP {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden auto;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+@media screen and (min-width: 768px) {
+    .css-1i3ha4y {
+        background-color: #FAFAFA;
+    }
+}
+
+.css-1i3ha4y {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #1E2329;
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------*/
+
+@media screen and (min-width: 1024px) {
+    .css-13eeyma {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .css-13eeyma {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+}
+
+.css-13eeyma {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    position: fixed;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    background-color: #0b0e11;
+    box-sizing: borderBox;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    z-index: 9;
+    padding-left: 16px;
+    padding-right: 0;
+}
+
+.css-13eeyma img {
+    width: 138px;
+}
+
+img {
+    border-style: none;
+}
+
+.css-x84wzl {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+@media screen and (min-width: 1024px) {
+    .css-11yl1bg {
+        margin-right: 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .css-11yl1bg {
+        margin-right: 0;
+    }
+}
+
+.css-ybbx55 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.css-11yl1bg {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    cursor: pointer;
+    color: #fff;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-right: 16px;
+}
+
+.css-1i3ha4y {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #1E2329;
+    background-color: #fff;
+}
+
+.css-1iztezc {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: currentColor;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    fill: #1E2329;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+} 
+
+.css-1gybehy {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+/* svg[Attributes Style] {
+    fill: none;
+} */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+element.style {
+    position: fixed;
+    inset: 0px auto auto 0px;
+    transform: translate(1736px, 42px);
+}
+
+.css-gv1gi9 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: none;
+    pointer-events: none;
+    visibility: hidden;
+    z-index: 1100;
+}
+
+/* element.style {
+    position: fixed;
+    inset: 0px auto auto 0px;
+    transform: translate(1610px, 42px);
+}
+
+.css-1gai8bq {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    z-index: 1100;
+} */
+
+
+
+
+
+
+
+
+.css-1xy7yb4 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 60px;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+main {
+    display: block;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.css-moj0yw {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    width: 100%;
+    color: rgb(30, 35, 41);
+    flex-direction: column;
+}
+
+
+/* @media screen and (min-width: 768px) {
+    .css-yqufh {
+        padding: 24px 24px 32px;
+        margin: 40px auto 24px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .css-yqufh {
+        width: 384px;
+        margin: 40px auto;
+        box-shadow: rgb(0 0 0 / 8%) 0px 2px 4px, rgb(0 0 0 / 8%) 0px 0px 2px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .css-yqufh {
+        width: 384px;
+        margin: 40px auto;
+        box-shadow: rgb(0 0 0 / 8%) 0px 2px 4px, rgb(0 0 0 / 8%) 0px 0px 2px;
+    }
+} */
+
+.css-yqufh {
+    box-sizing: border-box;
+    min-width: 0px;
+    /* width: 100%; */
+    border-radius: 2px;
+    background-color: #fff;
+    padding: 0px 8px 32px;
+    position: relative;
+    /* margin: 40px auto 0px; */
+
+    width: 384px;
+    height: 439px;
+    /* margin: 40px auto; */
+    box-shadow: rgb(0 0 0 / 8%) 0px 2px 4px, rgb(0 0 0 / 8%) 0px 0px 2px;
+    padding: 24px 24px 32px;
+    margin: 540px auto 24px;
+} 
+
+/* .appLogin-css {
+    position: relative;
+} */
