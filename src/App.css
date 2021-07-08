@@ -1,114 +1,13 @@
-/* .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 5vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
- */
-
-html {
-  font-size: 100px;
-}
-
-html {
-  line-height: 1.15;
-  text-size-adjust: 100%;
-}
-
-html body {
-  font-family: BinancePlex,Arial,sans-serif!important;
-}
-
 body {
   -webkit-tap-highlight-color: transparent;
   box-sizing: border-box;
   position: relative;
   background-color: rgb(255, 255, 255);
+  font-family: BinancePlex,Arial,sans-serif!important;
   font-size: 14px;
-}
-
-body {
   margin: 0px;
-}
 
-body {
-  font-family: BinancePlex,Arial,sans-serif!important;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body {
   display: block;
-  margin: 8px;
-}
-
-/*-----------------------------------------*/
-* {
-  box-sizing: border-box;
-}
-
-script {
-  display: none;
-}
-
-html body {
-  font-family: BinancePlex,Arial,sans-serif!important;
-}
-
-body {
-  -webkit-tap-highlight-color: transparent;
-  box-sizing: border-box;
-  position: relative;
-  background-color: rgb(255, 255, 255);
-  font-size: 14px;
-}
-
-body {
-  font-family: BinancePlex,Arial,sans-serif!important;
-}
-
-html {
-  font-size: 100px;
-}
-
-html {
-  line-height: 1.15;
-  text-size-adjust: 100%;
-}
-
-/*-----------------------------------------*/
-#__APP {
-  width: 100vw;
-  height: 100vh;
-  overflow: hidden auto;
-  box-sizing: border-box;
-  -webkit-tap-highlight-color: transparent;
 }
 
 * {
@@ -119,29 +18,17 @@ div {
   display: block;
 }
 
-html body {
-  font-family: BinancePlex,Arial,sans-serif!important;
+main {
+  display: block;
 }
 
-body {
-  -webkit-tap-highlight-color: transparent;
+
+#__APP {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden auto;
   box-sizing: border-box;
-  position: relative;
-  background-color: rgb(255, 255, 255);
-  font-size: 14px;
-}
-
-body {
-  font-family: BinancePlex,Arial,sans-serif!important;
-}
-
-html {
-  font-size: 100px;
-}
-
-html {
-  line-height: 1.15;
-  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
 }
 
 /*-----------------------------------------*/
@@ -167,46 +54,6 @@ html {
     background-color: #fff;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
-#__APP {
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden auto;
-    box-sizing: border-box;
-    -webkit-tap-highlight-color: transparent;
-}
-
-html body {
-    font-family: BinancePlex,Arial,sans-serif!important;
-}
-
-body {
-    -webkit-tap-highlight-color: transparent;
-    box-sizing: border-box;
-    position: relative;
-    background-color: rgb(255, 255, 255);
-    font-size: 14px;
-}
-
-body {
-    font-family: BinancePlex,Arial,sans-serif!important;
-}
-
-html {
-    font-size: 100px;
-}
-
-html {
-    line-height: 1.15;
-    text-size-adjust: 100%;
-}
 
 /*-----------------------------------------*/
 @media screen and (min-width: 1024px) {
@@ -249,24 +96,12 @@ html {
     padding-right: 0;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
 a {
   text-decoration: none;
 }
 
 a {
   background-color: transparent;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 a:-webkit-any-link {
@@ -281,19 +116,6 @@ a:-webkit-any-link {
 
 img {
   border-style: none;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-a {
-  text-decoration: none;
-}
-
-a:-webkit-any-link {
-  color: -webkit-link;
-  cursor: pointer;
 }
 
 /*-----------------------------------------*/
@@ -314,13 +136,7 @@ a:-webkit-any-link {
   justify-content: flex-end;
 }
 
-* {
-  box-sizing: border-box;
-}
 
-div {
-  display: block;
-}
 
 @media screen and (min-width: 1024px) {
     .css-13eeyma {
@@ -361,14 +177,6 @@ div {
     z-index: 9;
     padding-left: 16px;
     padding-right: 0;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
 }
 
 .css-1xy7yb4 {
@@ -392,17 +200,6 @@ div {
   flex-direction: column;
 }
 
-main {
-  display: block;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-main {
-  display: block;
-}
 
 .css-moj0yw {
   box-sizing: border-box;
@@ -414,13 +211,7 @@ main {
   flex-direction: column;
 }
 
-* {
-  box-sizing: border-box;
-}
 
-div {
-  display: block;
-}
 
 /*-----------------------------------------*/
 
@@ -459,13 +250,6 @@ div {
     margin: 40px auto 0px;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
 
 
 
@@ -475,14 +259,6 @@ div {
   margin: 0px 0px 24px;
   min-width: 0px;
   text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
 }
 
 .css-tb94u7 {
@@ -495,14 +271,6 @@ div {
   color: rgb(30, 35, 41);
 }
 
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
-}
-
 .css-ft5043 {
   box-sizing: border-box;
   margin: 0px 0px 12px;
@@ -513,13 +281,6 @@ div {
   color: rgb(112, 122, 138);
 }
 
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
-}
 
 .css-gflt22 {
   box-sizing: border-box;
@@ -537,13 +298,6 @@ div {
   align-items: center;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
-}
 
 /*----------------------------------------*/
 .css-x84wzl {
@@ -563,13 +317,6 @@ div {
   justify-content: flex-end;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
-}
 
 .css-ybbx55 {
   box-sizing: border-box;
@@ -580,13 +327,6 @@ div {
   outline: none;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
-}
 
 @media screen and (min-width: 1024px) {
     .css-11yl1bg {
@@ -617,14 +357,6 @@ div {
     margin-right: 16px;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
 .css-1iztezc {
   box-sizing: border-box;
   margin: 0;
@@ -639,13 +371,9 @@ div {
   height: 1em;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-/* svg[Attributes Style] {
+svg[Style] {
   fill: none;
-} */
+}
 
 svg:not(:root) {
   overflow: hidden;
@@ -658,14 +386,6 @@ svg:not(:root) {
   margin-left: 10px;
   margin-right: 10px;
   font-size: 14px;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
 }
 
 
@@ -685,30 +405,14 @@ div {
   height: 1em;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 svg:not(:root) {
   overflow: hidden;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 :not(svg) {
   transform-origin: 0px 0px;
 }
 
-
-
-
-element.style {
-  position: fixed;
-  inset: 0px auto auto 0px;
-  transform: translate(1736px, 42px);
-}
 .css-gv1gi9 {
   box-sizing: border-box;
   margin: 0;
@@ -717,14 +421,6 @@ element.style {
   pointer-events: none;
   visibility: hidden;
   z-index: 1100;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-div {
-  display: block;
 }
 
 
@@ -767,14 +463,6 @@ div {
     margin-top: 20px;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
 .css-168o2sb a {
   cursor: pointer;
   color: #fff;
@@ -785,18 +473,6 @@ div {
   display: inline-block;
   box-sizing: border-box;
   font-size: 14px;
-}
-
-a {
-  text-decoration: none;
-}
-
-a {
-  background-color: transparent;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 .css-168o2sb a:hover, .css-168o2sb a.active {
@@ -819,18 +495,6 @@ a {
   font-size: 14px;
 }
 
-a {
-  text-decoration: none;
-}
-
-a {
-  background-color: transparent;
-}
-
-* {
-  box-sizing: border-box;
-}
-
 .css-168o2sb a {
   cursor: pointer;
   color: #fff;
@@ -841,22 +505,4 @@ a {
   display: inline-block;
   box-sizing: border-box;
   font-size: 14px;
-}
-
-a {
-  text-decoration: none;
-}
-
-a {
-  background-color: transparent;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-element.style {
-  position: fixed;
-  inset: 0px auto auto 0px;
-  transform: translate(1736px, 42px);
 }
