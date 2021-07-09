@@ -1,6 +1,6 @@
 import React from 'react'
 //import logo from './logo.svg';
-// import AppLogin from './Login/login'
+import AppLogin from './Login/login'
 import './App1.css';
 //import './AppTest11.css'
 
@@ -78,9 +78,11 @@ class EasyShopping extends React.Component {
                 </div>
               </div>
             </div>
-          </div>
-          <div>
-            {/* <AppLogin class="appLogin-css"/> */}
+            <div class="login-container">
+              <div class="login-container1">
+                <AppLogin class="appLogin-css"/>
+              </div>
+            </div>
           </div>
         </div> 
       </body>

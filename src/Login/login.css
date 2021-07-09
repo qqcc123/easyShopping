@@ -1,67 +1,54 @@
-.main-css {
-    box-sizing: border-box;
-    margin: 0;
-    min-width: 0;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
+.login-container {
+    /* box-sizing: border-box;
     display: flex;
     overflow-y: auto;
     overflow-x: hidden;
+    position: relative;
     margin-left: 16px;
     margin-right: 16px;
-    margin-top: 60px;
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
+    margin-top: 25px;
+    margin-bottom: 25px;
     flex-direction: column;
+    display: block; */
+
+    border-color: coral;
+    border-style: solid;
+    border-width: 1px;
 }
 
-main {
-    display: block;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
-.css-m0j0yw {
-    box-sizing: border-box;
-    margin: 0px;
-    min-width: 0px;
+.login-tips-container {
     display: flex;
-    width: 100%;
-    color: rgb(30, 35, 41);
+    height: 150px;
+    /* flex: 1; */
     flex-direction: column;
+
+    margin: 10px;
+    border-color: rgb(13, 212, 63);
+    border-style: solid;
+    border-width: 1px;
 }
 
-.css-tb94u7 {
+.login-tips {
     box-sizing: border-box;
-    margin: 0px 0px 12px;
-    min-width: 0px;
+    margin: 0 auto;
+    margin-top: 12px;
     font-weight: 400;
     font-size: 24px;
     line-height: 30px;
     color: rgb(30, 35, 41);
 }
 
-.css-ft5043 {
+.login-link-tips {
     box-sizing: border-box;
-    margin: 0px 0px 12px;
-    min-width: 0px;
+    margin: 0 auto;
+    margin-top: 12px;
     font-weight: 400;
     font-size: 12px;
     line-height: 16px;
     color: rgb(112, 122, 138);
 }
 
-.css-gflt22 {
+.login-link-container {
     box-sizing: border-box;
     min-width: 0px;
     font-weight: 400;
@@ -70,36 +57,20 @@ div {
     border: 1px solid rgb(245, 245, 245);
     border-radius: 23px;
     display: inline-flex;
-    margin: 0px auto 8px;
+    margin: 0 auto;
+    margin-top: 12px;
     width: auto;
     padding: 8px 24px;
-    -webkit-box-align: center;
     align-items: center;
 }
 
-.css-1ur07bk {
-    box-sizing: border-box;
-    margin: 0px;
-    min-width: 0px;
-    line-height: 18px;
-    height: 18px;
+.login-link-container1 {
+    border-color: rgb(40, 24, 189);
+    border-style: solid;
+    border-width: 1px;
 }
 
-.css-vurnku {
-    box-sizing: border-box;
-    margin: 0;
-    min-width: 0;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
-.css-1mb79dz {
+.login-link-svg {
     box-sizing: border-box;
     margin: 0px 4px 0px 0px;
     min-width: 0px;
@@ -110,9 +81,16 @@ div {
     height: 1em;
 }
 
-.css-e4p3 {
+.login-link-text-div {
+    border-color: rgb(226, 160, 17);
+    border-style: solid;
+    border-width: 1px;
+}
+
+.login-link-text {
     box-sizing: border-box;
     margin: 0px;
     min-width: 0px;
-    color: rgb(14, 203, 129);
+    line-height: 18px;
+    height: 18px;
 }
